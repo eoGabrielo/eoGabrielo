@@ -1,4 +1,4 @@
-## Olá! eu sou o Gabriel 🚀
+# Olá! eu sou o Gabriel 🚀
 
 - 🖥️ Desenvolvedor Front-End;
 - 📚 Cursando: Análise e Desenvolvimento de Sistemas;
