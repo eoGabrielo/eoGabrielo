@@ -1,4 +1,4 @@
-# Olá! eu sou o Gabriel 🚀
+# Olá! eu sou o Gabriel 🚀 <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
 - 🖥️ Desenvolvedor Front-End;
 - 📚 Cursando: Análise e Desenvolvimento de Sistemas;
