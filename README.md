@@ -24,6 +24,6 @@
 <br/>
   <a href="https://www.linkedin.com/in/gabriel-jos%C3%A9-de-oliveira-4b614b185/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/eoGabrielo)
+![snake gif](https://github.com/eoGabrielo/eoGabrielo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
