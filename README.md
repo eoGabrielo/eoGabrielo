@@ -1,6 +1,6 @@
 # gabrielzinho 🚀 <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
-- 🖥️ Desenvolvedor Front-End;
+- 🖥️ Desenvolvedor;
 - 📚 Cursando: Análise e Desenvolvimento de Sistemas;
 - 🛼 Patinador nas horas vagas.
 
