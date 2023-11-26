@@ -1,8 +1,8 @@
 # gabrielzinho 🚀 <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
-- 🖥️Desenvolvedor;
-- 📚Cursando: Análise e Desenvolvimento de Sistemas;
-- Patinador nas horas vagas.
+- 🖥️ Desenvolvedor;
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas;
+- ⛸️ Patinador nas horas vagas.
 
 <div align="center">
   <a href="https://github.com/eoGabrielo">
