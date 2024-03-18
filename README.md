@@ -2,7 +2,7 @@
 
 - 🖥️ Desenvolvedor;
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas;
-- ⛸️ Patinador nas horas vagas.
+- 💪 Gym.
 
 <div align="center">
   <a href="https://github.com/eoGabrielo">
