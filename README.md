@@ -1,8 +1,7 @@
 # gabriel 🚀 <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
-- 🖥️ Desenvolvedor;
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas;
-- 💪 Gym.
+- 🖥️ Dev
+- 💪
 
 <div align="center">
   <a href="https://github.com/eoGabrielo">
