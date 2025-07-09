@@ -1,4 +1,4 @@
-# gabriel 🚀 <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
+# Gabriel Oliveira <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
 - 🖥️💪
 
