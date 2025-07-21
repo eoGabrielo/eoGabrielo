@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Desenvolvedor Full Stack | 💪 GYM
 
-Desenvolvimento web, programação em projetos práticos e reais.
+Desenvolvimento web, programação em projetos.
 
 ---
 
