@@ -8,7 +8,7 @@ Desenvolvimento de sistemas e projetos.
 ### 📲 Fale comigo:
 
 [![WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945748486?text=Olá,%20tudo%20bem?%20Encontrei%20seu%20GitHub%20e%20achei%20interessante%20seu%20projeto.%20Gostaria%20de%20conversar!)  
-[![LinkedIn](https://img.shields.io/badge/Conecte-se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-4b614b185/)
+[![LinkedIn](https://img.shields.io/badge/Conecte-se%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-405274383/)
 
 ---
 
