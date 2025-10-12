@@ -1,10 +1,7 @@
 # Gabriel Oliveira <img src="https://media.giphy.com/media/yBgscAAQRDhig20tD1/giphy.gif" width="40" height="40"/>
 
 ### 👨‍💻 Desenvolvedor | 💪 GYM
-Desenvolvimento de sistemas e projetos.
-
 ---
-
 ### 📲 Fale comigo:
 
 [![WhatsApp](https://img.shields.io/badge/Fale%20comigo%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511945748486?text=Olá,%20tudo%20bem?%20Encontrei%20seu%20GitHub%20e%20achei%20interessante%20seu%20projeto.%20Gostaria%20de%20conversar!)  
