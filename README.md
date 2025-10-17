@@ -14,11 +14,12 @@
 ### 🛠️ Tecnologias que uso:
 
 #### Frontend
-<div style="display: inline_block"><br>
+<div style="display: inline-block">
   <img align="center" height="30" width="40" title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
   <img align="center" height="30" width="40" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" title="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" height="30" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 </div>
 
 
